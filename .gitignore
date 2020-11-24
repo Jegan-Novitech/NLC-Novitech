@@ -1,0 +1,13 @@
+/build
+/dist
+/deepface
+/dataset
+/barcode-scanner
+/faceborder
+/oracle_test
+bar.py
+audio.py
+attendance.db
+barcode.csv
+welcome1.mp3
+*.exe
